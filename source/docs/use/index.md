@@ -4,7 +4,9 @@ description: 'Everything HACS for users.'
 ---
 Hi there :wave:
 
-This is the beginning of the user documentation for HACS.
+This is the beginning of the user documentation for HACS.hffhuvvhuyggggh
+![1000005098](https://github.com/user-attachments/assets/d394ab03-cedd-40d1-92ae-88d9dc0daf5c)
+
 
 Use the sidebar to navigate this section.
 
